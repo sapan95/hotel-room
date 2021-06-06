@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    height: 100vh;
+    margin: 0px 30%;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.item{
+    padding: 5% 0;
+    border-bottom: 1px solid;
+}
